@@ -32,7 +32,7 @@ The colors are inspired by Sierra Leone’s natural beauty — ocean blue and vi
 ![Flyer Preview](screenshot.png)
 
 ## 🔗 Live Demo
-[Click to view on GitHub Pages](https://github.com/mattialavai/techfest-flyer)
+[Click to view on GitHub Pages] (https://mattialavai.github.io/techfest-flyer/)
 
 ## 📂 Structure
 - `index.html`
