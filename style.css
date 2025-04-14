@@ -60,7 +60,7 @@
     font-weight: bold;
   }
   
-  /* CTA Button */
+/* CTA Button */
 .cta-button {
     background: #00FFA3;
     color: #002B5B;
@@ -77,7 +77,7 @@
     background: #00B4DB;
     color: white;
     transform: scale(1.05);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    box-shadow:   0 4px 12px rgba(0,0,0,0.3);
   }
   
   /* Footer */
