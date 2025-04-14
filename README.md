@@ -7,7 +7,12 @@ The colors are inspired by Sierra Leone’s natural beauty — ocean blue and vi
 - Bold, clear layout
 - Color gradients and hover animations
 - Typography that grabs attention
+<<<<<<< HEAD
 
+=======
+  
+  
+>>>>>>> 02e5ba585818ae34883611c4be69ea86513d67c4
 ## 🔥 Features
 - Gradient animated headline
 - Smooth fade-in on load
@@ -25,17 +30,15 @@ The colors are inspired by Sierra Leone’s natural beauty — ocean blue and vi
 - Demonstrate CSS effects like gradient text, hover scaling
 - Use responsive design for mobile and desktop
 
-## 💡 Design Inspiration
-The colors are inspired by Sierra Leone’s natural beauty — ocean blue and vibrant green — representing innovation and growth. The flyer is designed to be sleek, energetic, and future-facing, while still accessible and mobile-friendly. I also focused on:
-- Bold, clear layout
-- Color gradients and hover animations
-- Typography that grabs attention
-
 ## 📸 Screenshot
 ![Screenshot of Sierra Leone Tech Fest 2025 Flyer](screenshot.png)
 
 ## 🔗 Live Demo
+<<<<<<< HEAD
 [Click to view on GitHub Pages](https://mattialavai.github.io/techfest-flyer/)
+=======
+[Click to view on GitHub Pages] (https://mattialavai.github.io/techfest-flyer/)
+>>>>>>> 02e5ba585818ae34883611c4be69ea86513d67c4
 
 ## 📂 Structure
 - `index.html`
