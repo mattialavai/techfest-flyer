@@ -1,0 +1,111 @@
+/* Reset & Base */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f9f9f9;
+    color: #222;
+    line-height: 1.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  /* Flyer Container */
+  .flyer {
+    background: white;
+    padding: 2rem;
+    max-width: 600px;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  .flyer:hover {
+    transform: scale(1.02);
+  }
+  
+  /* Header */
+  .gradient-text {
+    font-size: 2.5rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #00a859, #0072ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .subheadline {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    color: #444;
+    font-weight: bold;
+  }
+  
+  /* Content */
+  .content {
+    margin-top: 1.5rem;
+  }
+  .content p {
+    margin-bottom: 1rem;
+  }
+  .content ul {
+    list-style: none;
+    margin: 1rem 0;
+  }
+  .content li {
+    margin: 0.3rem 0;
+    font-weight: bold;
+  }
+  
+  /* CTA Button */
+.cta-button {
+    background: #00FFA3;
+    color: #002B5B;
+    padding: 0.75rem 1.5rem;
+    border-radius: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: 1rem;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+  }
+  
+  .cta-button:hover {
+    background: #00B4DB;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  /* Responsive */
+@media screen and (max-width: 600px) {
+  .flyer {
+    padding: 1.5rem;
+  }
+
+  .gradient-text {
+    font-size: 1.7rem;
+  }
+
+  .subheadline {
+    font-size: 1rem;
+  }
+
+  .description {
+    font-size: 0.95rem;
+  }
+
+  .cta-button {
+    font-size: 0.95rem;
+  }
+}
