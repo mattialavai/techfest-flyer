@@ -59,6 +59,10 @@
     margin: 0.3rem 0;
     font-weight: bold;
   }
+
+  .highlights{
+    margin-top: 1.5rem;
+  }
   
 /* CTA Button */
 .cta-button {
